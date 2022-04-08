@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "volumeLp", "volumeLp\volumeLp.csproj", "{7A907675-B8DF-4CBB-A7D4-EEC0B217FBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A907675-B8DF-4CBB-A7D4-EEC0B217FBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A907675-B8DF-4CBB-A7D4-EEC0B217FBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A907675-B8DF-4CBB-A7D4-EEC0B217FBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A907675-B8DF-4CBB-A7D4-EEC0B217FBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51CC477C-83EB-46A6-BB71-A2A214EC25B3}
+	EndGlobalSection
+EndGlobal

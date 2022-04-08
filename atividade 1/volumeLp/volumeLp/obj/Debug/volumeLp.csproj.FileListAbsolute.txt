@@ -1,0 +1,11 @@
+C:\Users\alexf\source\repos\volumeLp\volumeLp\bin\Debug\volumeLp.exe.config
+C:\Users\alexf\source\repos\volumeLp\volumeLp\bin\Debug\volumeLp.exe
+C:\Users\alexf\source\repos\volumeLp\volumeLp\bin\Debug\volumeLp.pdb
+C:\Users\alexf\source\repos\volumeLp\volumeLp\obj\Debug\volumeLp.csproj.AssemblyReference.cache
+C:\Users\alexf\source\repos\volumeLp\volumeLp\obj\Debug\volumeLp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexf\source\repos\volumeLp\volumeLp\obj\Debug\volumeLp.fmrVolume.resources
+C:\Users\alexf\source\repos\volumeLp\volumeLp\obj\Debug\volumeLp.Properties.Resources.resources
+C:\Users\alexf\source\repos\volumeLp\volumeLp\obj\Debug\volumeLp.csproj.GenerateResource.cache
+C:\Users\alexf\source\repos\volumeLp\volumeLp\obj\Debug\volumeLp.csproj.CoreCompileInputs.cache
+C:\Users\alexf\source\repos\volumeLp\volumeLp\obj\Debug\volumeLp.exe
+C:\Users\alexf\source\repos\volumeLp\volumeLp\obj\Debug\volumeLp.pdb
