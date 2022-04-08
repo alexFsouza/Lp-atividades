@@ -1,0 +1,11 @@
+C:\Users\alexf\source\repos\pVolume\pVolume\bin\Debug\pVolume.exe.config
+C:\Users\alexf\source\repos\pVolume\pVolume\bin\Debug\pVolume.exe
+C:\Users\alexf\source\repos\pVolume\pVolume\bin\Debug\pVolume.pdb
+C:\Users\alexf\source\repos\pVolume\pVolume\obj\Debug\pVolume.csproj.AssemblyReference.cache
+C:\Users\alexf\source\repos\pVolume\pVolume\obj\Debug\pVolume.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexf\source\repos\pVolume\pVolume\obj\Debug\pVolume.Properties.Resources.resources
+C:\Users\alexf\source\repos\pVolume\pVolume\obj\Debug\pVolume.csproj.GenerateResource.cache
+C:\Users\alexf\source\repos\pVolume\pVolume\obj\Debug\pVolume.csproj.CoreCompileInputs.cache
+C:\Users\alexf\source\repos\pVolume\pVolume\obj\Debug\pVolume.exe
+C:\Users\alexf\source\repos\pVolume\pVolume\obj\Debug\pVolume.pdb
+C:\Users\alexf\source\repos\pVolume\pVolume\obj\Debug\pVolume.frmCalc.resources
