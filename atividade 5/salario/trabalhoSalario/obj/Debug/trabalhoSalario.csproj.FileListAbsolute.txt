@@ -1,0 +1,11 @@
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\bin\Debug\trabalhoSalario.exe.config
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\bin\Debug\trabalhoSalario.exe
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\bin\Debug\trabalhoSalario.pdb
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\obj\Debug\trabalhoSalario.csproj.AssemblyReference.cache
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\obj\Debug\trabalhoSalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\obj\Debug\trabalhoSalario.Properties.Resources.resources
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\obj\Debug\trabalhoSalario.csproj.GenerateResource.cache
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\obj\Debug\trabalhoSalario.csproj.CoreCompileInputs.cache
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\obj\Debug\trabalhoSalario.exe
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\obj\Debug\trabalhoSalario.pdb
+C:\Users\alexf\source\repos\trabalhoSalario\trabalhoSalario\obj\Debug\trabalhoSalario.frmMenu.resources
