@@ -1,0 +1,11 @@
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\bin\Debug\triangulo-lp.exe.config
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\bin\Debug\triangulo-lp.exe
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\bin\Debug\triangulo-lp.pdb
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\obj\Debug\triangulo-lp.csproj.AssemblyReference.cache
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\obj\Debug\triangulo-lp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\obj\Debug\triangulo_lp.frmTriangulo.resources
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\obj\Debug\triangulo_lp.Properties.Resources.resources
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\obj\Debug\triangulo-lp.csproj.GenerateResource.cache
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\obj\Debug\triangulo-lp.csproj.CoreCompileInputs.cache
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\obj\Debug\triangulo-lp.exe
+C:\Users\alexf\source\repos\triangulo-lp\triangulo-lp\obj\Debug\triangulo-lp.pdb
